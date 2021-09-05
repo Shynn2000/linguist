@@ -1,2 +1,3 @@
 .git/
 test/
+  codemirror_mime_type: text/x-c++src
